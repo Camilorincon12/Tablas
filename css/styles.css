@@ -1,0 +1,26 @@
+*{
+    margin: 2px;
+    padding: 0;
+    
+}
+
+.table{
+    margin: auto;
+    font-size: larger;
+    border: 2px solid black;
+}
+.prin{
+    border: 2px solid black;
+    border: 2px solid black;
+}
+.nota{
+    text-align: center;
+    border: 2px solid black;
+}
+.body{
+    align-items: center;
+    border: 2px solid black;
+    background-color: aquamarine;
+
+}
+
