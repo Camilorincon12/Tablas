@@ -2,54 +2,41 @@
     margin: 0 auto;
     padding: 0 auto;
     font-size: 20px;
-    
 }    
 head tr,th{
     border-color:2px solid black;
     border: 2px;
 }
 
-.table{
+table{
     margin: auto;
     font-size: larger;
-    border: 2px solid black;
-    border-color: black;
     text-align: center ;
     padding: 0 auto;
     border-collapse: collapse;
 }
 .prin{
-    
-    border: 2px solid black;
-    border-color: black;
     text-align: left;
     background-color: #FA4322;
 }
 .nota{
     text-align: center;
-    border: 2px solid black;
-    border-color: black;
     background-color: #F93C1F;
     text-align: center ;
 }
 .body{
     align-items: center;
-    border: 2px solid black;
-    border-color: black;
     background-color: #FA5B43;
     text-align: center ;
     
 }
 .fecha{
+    text-align: center;
+    background-color: #FA705E;
     
-    padding: 10px;
-    border-radius: 4px;
-    margin-bottom: 16px;
-    border: 1px solid #1f53c5;
 }
 
-head td{
-    border: 2px black;
-    border-color: black;
 
+table, thead, tbody, tfoot, td, th, tr{
+    border: 1px solid black; 
 }
